@@ -25,5 +25,3 @@ This is a console-based password generator application written in Python. The ap
 2. Open a terminal and navigate to the directory containing the script.
 3. Run the script using Python:
 
-```bash
-python password_generator.py
